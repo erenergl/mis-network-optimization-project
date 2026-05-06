@@ -1,10 +1,10 @@
 Source,Target,Weight
-Central IT,Branch A,15
-Central IT,Branch B,20
-Branch A,Branch C,10
-Branch B,Branch C,12
-Branch B,Branch D,25
-Branch C,Data Center,30
-Branch C,Branch D,18
-Branch D,Factory,15
-Data Center,Factory,20
+Headquarters,Branch Office A,15
+Headquarters,Branch Office B,20
+Branch Office A,Branch Office C,10
+Branch Office B,Branch Office C,12
+Branch Office B,Branch Office D,25
+Branch Office C,Data Center,30
+Branch Office C,Branch Office D,18
+Branch Office D,Production Facility,15
+Data Center,Production Facility,20
